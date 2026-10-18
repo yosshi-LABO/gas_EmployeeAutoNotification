@@ -8,3 +8,4 @@
 3.関係者へ処理結果通知
 
 ※作成中
+<img width="952" height="720" alt="REC-GIF_saas" src="https://github.com/user-attachments/assets/425dac2f-a7ed-4506-b49e-2e94bb29e7eb" />
